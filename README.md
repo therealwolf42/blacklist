@@ -7,7 +7,7 @@ Adding new accounts is possible by editing the `list.txt` via [PR](https://githu
 The following attributes are required.
 
 - `account` => name of the account that should be added
-- `reason` => one of the following: `spam`, `promoAbuse`, `illegal` 
+- `reason` => one of the following: `spam`, `promoAbuse`, `illegal`, `plagiarism ` (or others if they fit, but consistency is key!)
 - `validator` => unique identifier of the person who reported the account
 
 More details should be added into the PR, as text.
