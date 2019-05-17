@@ -1,6 +1,6 @@
 # Smartsteem.com Blacklist
 
-Adding new users is possible by editing the `list.txt` via [PR](https://github.com/smartsteem/blacklist/pulls)
+Adding new accounts is possible by editing the `list.txt` via [PR](https://github.com/smartsteem/blacklist/pulls)
 
 The following attributes are required.
 
