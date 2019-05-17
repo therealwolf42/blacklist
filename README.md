@@ -9,3 +9,5 @@ The following attributes are required.
 - `validator` => unique identifier of the person who reported the account
 
 More details should be added into the PR, as text.
+
+Approval of PRs is not guaranteed, but it's much appreciated in the fight against abuse on Steem.
