@@ -2,6 +2,8 @@
 
 Adding new accounts is possible by editing the `list.txt` via [PR](https://github.com/smartsteem/blacklist/pulls)
 
+![](https://github.com/smartsteem/blacklist/blob/master/how_to.gif)
+
 The following attributes are required.
 
 - `account` => name of the account that should be added
