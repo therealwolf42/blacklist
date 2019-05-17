@@ -10,4 +10,4 @@ The following attributes are required.
 
 More details should be added into the PR, as text.
 
-Approval of PRs is not guaranteed, but it's much appreciated in the fight against abuse on Steem.
+Submission of abusers is much appreciated, however, approval is not guaranteed.
