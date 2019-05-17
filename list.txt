@@ -1333,3 +1333,4 @@
 {'account':'vegawesome','reason':'','validator':'smartsteem'}
 {'account':'ratatoskwestgoth','reason':'','validator':'smartsteem'}
 {'account':'askskugge','reason':'','validator':'smartsteem'}
+{'account':'test','reason':'promoAbuse','validator':'therealwolf'}
